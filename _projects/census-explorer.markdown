@@ -14,7 +14,6 @@ tags:
   - PostgreSQL
   - PostGIS
 images:   3
-app-link: "http://census.alexthompson.work"
 ---
 A proof-of-concept application for joining big data with geospatial features, while implementing lazy loading and smart caching of features.
 
