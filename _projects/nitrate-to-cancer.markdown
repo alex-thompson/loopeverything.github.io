@@ -15,7 +15,6 @@ tags:
   - PostgreSQL
   - PostGIS
 images:   2
-app-link: "http://nitrate.alexthompson.work"
 ---
 Turf.js was used to interpolate continuous surfaces for nitrate values and cancer rates in Wisconsin. The end result was a layer showing the standard deviation of the residuals after generating a linear regression model. 
 
